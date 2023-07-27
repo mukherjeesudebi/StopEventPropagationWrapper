@@ -1,4 +1,4 @@
-package org.vaadin.addons.componentfactory;
+package org.vaadin.addons.wrapper;
 
 import com.vaadin.flow.component.Component;
 import com.vaadin.flow.component.html.Div;

@@ -1,5 +1,7 @@
 package org.vaadin.addons.componentfactory;
 
+import org.vaadin.addons.wrapper.StopEventPropagationWrapper;
+
 import com.vaadin.flow.component.button.Button;
 import com.vaadin.flow.component.html.Div;
 import com.vaadin.flow.router.Route;

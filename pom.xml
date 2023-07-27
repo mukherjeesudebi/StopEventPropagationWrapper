@@ -7,7 +7,7 @@
     <groupId>org.vaadin.addons.componentfactory</groupId>
     <artifactId>StopEventPropagationWrapper</artifactId>
     <version>1.0.0</version>
-    <name>Add-on for Vaadin</name>
+    <name>StopEventPropagationWrapper</name>
     <description>StopEventPropagationWrapper</description>
 
     <properties>
